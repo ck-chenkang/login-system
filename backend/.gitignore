@@ -1,0 +1,38 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+artifacts/
+publish/
+
+# Visual Studio / VS Code / Rider
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.rsuser
+*.userprefs
+*.DotSettings.user
+_ReSharper*/
+
+# Logs and diagnostics
+*.log
+*.etl
+*.dmp
+TestResults/
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# ASP.NET Core config (local/dev secrets)
+appsettings.Development.json
+appsettings.*.local.json
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
